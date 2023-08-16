@@ -1,0 +1,43 @@
+.navbar-brand img{
+    max-height: 50px;
+}
+nav ul li a{
+    margin: auto 10px;
+    color: white;
+}
+.container-fluid span{
+    font-weight: bold;
+    color: red;
+    font-size: 24px;
+}
+.hero img{
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+.hero{
+    padding: 2rem;
+}
+.hero h1, h6{
+    text-align: center;
+}
+.hero .hero-text{
+    margin-bottom: 2rem;
+}
+.about h1{
+    text-align: center;
+}
+.about .about-container{
+    background-color: rgb(48, 47, 47);
+    display: flex;
+    align-items: center;
+    padding: 2rem;
+}
+.about .about-container img{
+    width: 300px;
+    display: block;
+    margin-right: 50px;
+}
+.about-container p{
+    color: white;
+}
